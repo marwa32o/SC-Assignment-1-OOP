@@ -8,7 +8,10 @@ Task2Main.class
 com\mycompany\sc\assignment\oop\SCAssignment1OOP.class
 Task1Main.class
 DigitalWallet.class
+OriginalAIBook.class
+OriginalAIMember.class
 Task3Main.class
 Task4Main.class
 Developer.class
+TestOriginalAI.class
 Employee.class

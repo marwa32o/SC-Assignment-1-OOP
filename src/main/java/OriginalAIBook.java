@@ -6,7 +6,14 @@
 /**
  *
  * @author PC
- */
-public class OriginalAIBook {
-    
+ */public class OriginalAIBook {
+    public String title;
+    public String author;
+    public boolean available;
+
+    public OriginalAIBook(String title, String author) {
+        this.title = title;
+        this.author = author;
+        this.available = true;
+    }
 }
